@@ -1,0 +1,7 @@
+id = "warm-faie"
+name = "Warm Faie"
+version = "0.0.1"
+schema_version = 1
+authors = ["solidsilver"]
+description = "A warm, cozy Zed theme"
+repository = "https://github.com/solidsilver/warm-faie-zed"
