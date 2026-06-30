@@ -1,6 +1,6 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
-  "name": "Warm Faie Light",
+  "name": "Warm Faie",
   "author": "solidsilver",
   "themes": [
     {
@@ -467,7 +467,7 @@
         "tab.inactive_background": "#e9e3d4FF",
         "tab.active_background": "#f4efe3ff",
         "search.match_background": "#1565a866",
-        "search.active_match_background": "#7c5c0d66",
+        "search.active_match_background": "#5f5e1466",
         "panel.background": "#e9e3d4FF",
         "panel.focused_border": "#1565a8ff",
         "pane.focused_border": "#1565a8ff",
@@ -520,7 +520,7 @@
         "terminal.ansi.dim_white": "#8e8b82ff",
         "link_text.hover": "#1565a8ff",
         "version_control.added": "#3f6a2cff",
-        "version_control.modified": "#7c5c0dff",
+        "version_control.modified": "#5f5e14ff",
         "version_control.word_added": "#3f6a2c59",
         "version_control.word_deleted": "#b01440cc",
         "version_control.deleted": "#b01440ff",
@@ -550,8 +550,8 @@
         "info": "#1565a8ff",
         "info.background": "#1565a81a",
         "info.border": "#bbd0e8ff",
-        "modified": "#7c5c0dff",
-        "modified.background": "#7c5c0d1a",
+        "modified": "#5f5e14ff",
+        "modified.background": "#5f5e141a",
         "modified.border": "#e0d2a8ff",
         "predictive": "#6a7188ff",
         "predictive.background": "#6a71881a",
@@ -637,7 +637,7 @@
             "font_weight": null
           },
           "constructor": {
-            "color": "#7c5c0dff",
+            "color": "#5f5e14ff",
             "font_style": null,
             "font_weight": null
           },
@@ -657,7 +657,7 @@
             "font_weight": 700
           },
           "enum": {
-            "color": "#7c5c0dff",
+            "color": "#5f5e14ff",
             "font_style": null,
             "font_weight": null
           },
@@ -757,7 +757,7 @@
             "font_weight": null
           },
           "selector": {
-            "color": "#7c5c0dff",
+            "color": "#5f5e14ff",
             "font_style": null,
             "font_weight": null
           },
@@ -807,7 +807,7 @@
             "font_weight": 700
           },
           "type": {
-            "color": "#7c5c0dff",
+            "color": "#5f5e14ff",
             "font_style": null,
             "font_weight": null
           },
