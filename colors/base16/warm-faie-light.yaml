@@ -1,0 +1,24 @@
+# Warm Faie — Light (base16)
+# Portable base16 palette derived from the hand-crafted Zed theme in themes/warm-faie.json.
+# Slot semantics: https://github.com/tinted-theming/base16/blob/main/styling.md
+system: "base16"
+name: "Warm Faie Light"
+author: "solidsilver"
+variant: "light"
+palette:
+  base00: "#f4efe3" # default background
+  base01: "#e9e3d4" # lighter background (panels, status bar)
+  base02: "#d7d1c1" # selection background
+  base03: "#6e6c63" # comments, invisibles, line highlighting
+  base04: "#65635b" # dark foreground (muted, status bar text)
+  base05: "#2e2b24" # default foreground, caret, delimiters
+  base06: "#2e2b24" # light foreground
+  base07: "#141210" # darkest foreground (emphasis)
+  base08: "#b01440" # red — variables, diff deleted, errors
+  base09: "#a0481a" # orange — integers, booleans, constants
+  base0A: "#5f5e14" # yellow/olive — classes, diff changed
+  base0B: "#3f6a2c" # green — strings, diff inserted
+  base0C: "#1c6e6a" # cyan/teal — support, regex, escape
+  base0D: "#1565a8" # blue — functions, methods, headings
+  base0E: "#814b7b" # magenta/mauve — keywords, storage
+  base0F: "#a33645" # dark red — deprecated, embedded tags

@@ -1,0 +1,12 @@
+# macOS / Windows
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE metadata
+.idea/
+.vscode/
+
+# Generated theme output (e.g. tinted-builder)
+build/
+dist/

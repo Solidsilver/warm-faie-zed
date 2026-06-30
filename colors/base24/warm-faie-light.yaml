@@ -1,0 +1,32 @@
+# Warm Faie — Light (base24)
+# base24 extends base16 with 8 extra slots (base10–base17). base00–base0F are identical to the base16 scheme.
+# Slot semantics: https://github.com/tinted-theming/base24/blob/main/styling.md
+system: "base24"
+name: "Warm Faie Light"
+author: "solidsilver"
+variant: "light"
+palette:
+  base00: "#f4efe3" # default background
+  base01: "#e9e3d4" # lighter background (panels, status bar)
+  base02: "#d7d1c1" # selection background
+  base03: "#6e6c63" # comments, invisibles, line highlighting
+  base04: "#65635b" # dark foreground (muted, status bar text)
+  base05: "#2e2b24" # default foreground, caret, delimiters
+  base06: "#2e2b24" # light foreground
+  base07: "#141210" # darkest foreground (emphasis)
+  base08: "#b01440" # red — variables, diff deleted, errors
+  base09: "#a0481a" # orange — integers, booleans, constants
+  base0A: "#5f5e14" # yellow/olive — classes, diff changed
+  base0B: "#3f6a2c" # green — strings, diff inserted
+  base0C: "#1c6e6a" # cyan/teal — support, regex, escape
+  base0D: "#1565a8" # blue — functions, methods, headings
+  base0E: "#814b7b" # magenta/mauve — keywords, storage
+  base0F: "#a33645" # dark red — deprecated, embedded tags
+  base10: "#fbf8f0" # lighter background (elevated surface)
+  base11: "#fbf8f0" # lightest background
+  base12: "#b01440" # bright red
+  base13: "#7c5c0d" # bright yellow (amber)
+  base14: "#3f6a2c" # bright green
+  base15: "#1c6e6a" # bright cyan
+  base16: "#1565a8" # bright blue
+  base17: "#814b7b" # bright magenta
